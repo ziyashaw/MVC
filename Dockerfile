@@ -1,6 +1,6 @@
-FROM anoop600/tomcat
+FROM ziyashaw/tomcat
 
-MAINTAINER anoop
+MAINTAINER ziyashaw
 
 COPY target/*.war /usr/local/tomcat/webapps/
 

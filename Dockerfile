@@ -1,4 +1,4 @@
-FROM ziyashaw/tomcat
+FROM tomcat
 
 MAINTAINER ziyashaw
 

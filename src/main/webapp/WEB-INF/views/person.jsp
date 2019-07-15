@@ -50,7 +50,7 @@
 </style>
 </head>
 <body>
-	<h1>Add a Person</h1>
+	<h1>Add an Intresting Human</h1>
 
 	<c:url var="addAction" value="/person/add"></c:url>
 
